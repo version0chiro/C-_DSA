@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585294535 source:d:\program codes\c++_codes\houseproblem\main.c
+	<stdio.h>
+	<stdlib.h>
+
